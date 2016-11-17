@@ -243,3 +243,19 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+h2.social-icons {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+h2.social-icons a {
+  color: #fff;
+  font-size: 50px;
+  text-decoration: none;
+}
+
+h2.social-icons a:hover {
+  color: rgba(255, 255, 0, 0.71);
+  font-size: 50px;
+  text-decoration: none;
+}
