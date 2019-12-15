@@ -1,4 +1,4 @@
 # Community Site
 
-[![Website](https://img.shields.io/website-up-down-green-red/http/joinville-ml.github.io.svg)](http/joinville-ml.github.io)
+[![Website](https://img.shields.io/website-up-down-green-red/http/data-science-joinville.github.io.svg)](http/data-science-joinville.github.io)
 
